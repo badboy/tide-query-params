@@ -1,0 +1,10 @@
+[package]
+name = "tide-query-params"
+version = "0.1.0"
+authors = ["Jan-Erik Rediger <janerik@fnordig.de>"]
+edition = "2018"
+
+[dependencies]
+tide = "0.1"
+serde = "1.0"
+serde_qs = "0.4.5"
